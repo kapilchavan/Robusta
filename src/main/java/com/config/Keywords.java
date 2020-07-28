@@ -188,6 +188,19 @@ public class Keywords {
 		Constants.driver.manage().deleteAllCookies();
 	}
 
+	/*
+	 * This method is used to sleep methods
+	 * 
+	 */
+	public static void sleep() {
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			System.out.println("Timeout: "+e.getMessage());
+			e.printStackTrace();
+		}
+	}
+
 	/**
 	 * This method is used to Close the current window, quitting the browser if it's
 	 * the last window currently open.
