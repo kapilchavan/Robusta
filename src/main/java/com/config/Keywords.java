@@ -1,16 +1,29 @@
 package com.config;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+
+import com.utility.PropertyUtility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -200,6 +213,40 @@ public class Keywords {
 			e.printStackTrace();
 		}
 	}
+	
+	/**
+	 * This method is used to read JSON file as expected.
+	 *
+	 * @param filepath the path of the file to read
+	 * @throws IOException
+	 * @throws FileNotFoundException
+	 * @author Sujit Kolhe
+	 * 
+	 */
+	public static void readJsonFile(String filePath,String key) {
+		try {
+			Constants.obj= new JSONParser().parse(new FileReader(filePath));
+		} catch (IOException | ParseException e) {
+			System.out.println("Unable to read file" + e.getMessage());
+			e.printStackTrace();
+		}
+		Constants.jsonObj=(JSONObject)Constants.obj;
+		Constants.jsonArray=(JSONArray)Constants.jsonObj.get(key);
+		System.out.println("Size is:-"+Constants.jsonArray.size());	
+		Iterator itr = Constants.jsonArray.iterator();
+		while(itr.hasNext()) {
+			System.out.println("Expected List"+itr.next());
+		}
+		Constants.expectedList = new ArrayList();
+		String[] getList = new String[ Constants.jsonArray.size()];
+		for(int i=0;i<Constants.jsonArray.size();i++) {
+			getList[i]=(String)Constants.jsonArray.get(i);
+			Constants.expectedList.add(i,getList[i]);
+		}
+			System.out.println("Expected Size"+Constants.expectedList.size());
+	}
+	
+
 
 	/**
 	 * This method is used to Close the current window, quitting the browser if it's
@@ -218,7 +265,15 @@ public class Keywords {
 	 * @author Sujit Kolhe
 	 * 
 	 */
-	public static void closeAllBrowser() {
+	public static void quiteDriver() {
 		Constants.driver.quit();
+	}
+
+	
+	public static void selectValueFromDropdown(String locatorType, String locatorValue, String textToSelect) {
+		
+		WebElement element = getWebElement(locatorType, locatorValue);
+		Select select = new Select(element);
+		select.selectByVisibleText(textToSelect);
 	}
 }

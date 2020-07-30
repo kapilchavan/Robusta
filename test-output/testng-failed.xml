@@ -5,6 +5,11 @@
     <classes>
       <class name="com.test.LivingPageTest">
         <methods>
+          <include name="getSofasetItems"/>
+          <include name="close_Window_And_quiteDriver"/>
+          <include name="getSofa_set_SubmenuText"/>
+          <include name="sofa_setSubmenu_Display"/>
+          <include name="livingMenuDisplay"/>
           <include name="openBrowser"/>
         </methods>
       </class> <!-- com.test.LivingPageTest -->

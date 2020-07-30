@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59937" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+  <suite name="Default suite" duration-ms="24428" started-at="2020-07-29T11:47:04Z" finished-at="2020-07-29T11:47:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59937" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+    <test name="Default test" duration-ms="24428" started-at="2020-07-29T11:47:04Z" finished-at="2020-07-29T11:47:29Z">
       <class name="com.test.LivingPageTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.LivingPageTest@5e3a8624]" name="openBrowser" duration-ms="59830" started-at="2020-07-28T05:52:35Z" finished-at="2020-07-28T05:53:35Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.LivingPageTest@1794d431]" name="openBrowser" is-config="true" duration-ms="19926" started-at="2020-07-29T11:47:04Z" finished-at="2020-07-29T11:47:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="livingMenuDisplay()[pri:1, instance:com.test.LivingPageTest@1794d431]" name="livingMenuDisplay" duration-ms="545" started-at="2020-07-29T11:47:24Z" finished-at="2020-07-29T11:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- livingMenuDisplay -->
+        <test-method status="PASS" signature="sofa_setSubmenu_Display()[pri:2, instance:com.test.LivingPageTest@1794d431]" name="sofa_setSubmenu_Display" duration-ms="108" started-at="2020-07-29T11:47:25Z" finished-at="2020-07-29T11:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sofa_setSubmenu_Display -->
+        <test-method status="PASS" signature="getSofa_set_SubmenuText()[pri:3, instance:com.test.LivingPageTest@1794d431]" name="getSofa_set_SubmenuText" duration-ms="101" started-at="2020-07-29T11:47:25Z" finished-at="2020-07-29T11:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSofa_set_SubmenuText -->
+        <test-method status="PASS" signature="getSofasetItems()[pri:4, instance:com.test.LivingPageTest@1794d431]" name="getSofasetItems" duration-ms="600" started-at="2020-07-29T11:47:25Z" finished-at="2020-07-29T11:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSofasetItems -->
+        <test-method status="PASS" signature="close_Window_And_quiteDriver()[pri:0, instance:com.test.LivingPageTest@1794d431]" name="close_Window_And_quiteDriver" is-config="true" duration-ms="3053" started-at="2020-07-29T11:47:26Z" finished-at="2020-07-29T11:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Window_And_quiteDriver -->
       </class> <!-- com.test.LivingPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
