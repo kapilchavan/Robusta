@@ -243,7 +243,8 @@ public class Keywords {
 			getList[i]=(String)Constants.jsonArray.get(i);
 			Constants.expectedList.add(i,getList[i]);
 		}
-			System.out.println("Expected Size"+Constants.expectedList.size());
+		
+			System.out.println("Expected Size is :-"+Constants.expectedList.size());
 	}
 	
 
