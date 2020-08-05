@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
+//import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
@@ -21,9 +21,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.Assert;
 
-import com.utility.PropertyUtility;
+
+//import com.utility.PropertyUtility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -175,7 +175,7 @@ public class Keywords {
 	 */
 	public static void switchToWindow(int windowIndex) {
 		Set<String> windows = Constants.driver.getWindowHandles();
-		ArrayList<String> list = new ArrayList(windows);
+		ArrayList<String> list = new ArrayList<String>(windows);
 		Constants.driver.switchTo().window(list.get(windowIndex));
 	}
 
@@ -233,11 +233,11 @@ public class Keywords {
 		Constants.jsonObj=(JSONObject)Constants.obj;
 		Constants.jsonArray=(JSONArray)Constants.jsonObj.get(key);
 		System.out.println("Size is:-"+Constants.jsonArray.size());	
-		Iterator itr = Constants.jsonArray.iterator();
+		Iterator<?> itr = Constants.jsonArray.iterator();
 		while(itr.hasNext()) {
 			System.out.println("Expected List"+itr.next());
 		}
-		Constants.expectedList = new ArrayList();
+		Constants.expectedList = new ArrayList<String>();
 		String[] getList = new String[ Constants.jsonArray.size()];
 		for(int i=0;i<Constants.jsonArray.size();i++) {
 			getList[i]=(String)Constants.jsonArray.get(i);
@@ -270,7 +270,12 @@ public class Keywords {
 		Constants.driver.quit();
 	}
 
-	
+	/**
+	 * This method is used to select values from dropdown
+	 * 
+	 * @author Kapil Chavan
+	 * 
+	 */
 	public static void selectValueFromDropdown(String locatorType, String locatorValue, String textToSelect) {
 		
 		WebElement element = getWebElement(locatorType, locatorValue);

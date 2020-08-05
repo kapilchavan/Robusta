@@ -394,3 +394,228 @@
 2020-07-29 17:17:25 7806 INFO  [main] - Verify 'Living' Menu is visible or not
 2020-07-29 17:17:25 7919 INFO  [main] - Verify 'Sofa Set' subMenu visible or not
 2020-07-29 17:17:25 8022 INFO  [main] - Verify 'Sofa Set' text
+2020-07-31 11:05:13 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-07-31 11:05:21 8384 INFO  [main] - Verify 'Living' Menu is visible or not
+2020-07-31 11:05:22 8696 INFO  [main] - Verify 'Sofa Set' subMenu visible or not
+2020-07-31 11:05:22 8880 INFO  [main] - Verify 'Sofa Set' text
+2020-07-31 12:49:07 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-07-31 12:49:16 9219 INFO  [main] - Verify 'Living' Menu is visible or not
+2020-07-31 12:49:17 9542 INFO  [main] - Verify 'Sofa Set' subMenu visible or not
+2020-07-31 12:49:17 9811 INFO  [main] - Verify 'Sofa Set' text
+2020-07-31 13:36:24 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-07-31 13:37:29 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 18:30:17 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 18:41:49 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 18:45:36 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 18:45:44 8016 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-01 22:39:00 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 22:39:08 7797 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-01 22:39:08 7942 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-01 22:39:08 8171 INFO  [main] - Verify 'Beds' text
+2020-08-01 22:43:38 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 22:43:45 7824 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-01 22:43:45 7963 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-01 22:43:46 8118 INFO  [main] - Verify 'Beds' text
+2020-08-01 22:45:32 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 22:45:40 7828 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-01 22:45:40 7980 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-01 22:45:40 8150 INFO  [main] - Verify 'Beds' text
+2020-08-01 23:29:06 1 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-01 23:29:14 7761 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-01 23:29:14 7922 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-01 23:29:14 8206 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:04:52 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:04:59 7468 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:04:59 7625 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:05:00 7947 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:06:44 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:06:51 7510 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:06:51 7644 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:06:52 7846 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:17:27 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:17:34 7333 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:17:34 7481 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:17:34 7671 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:17:35 8621 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:23:13 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:23:21 7911 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:23:21 8264 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:23:22 8544 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:23:23 9482 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:23:23 9560 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 00:24:48 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:26:05 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:27:39 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:27:47 7907 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:27:47 8052 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:27:47 8376 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:27:48 9361 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:27:48 9425 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 00:30:11 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:30:19 8299 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:30:20 8456 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:30:20 9361 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:32:02 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:32:09 7497 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:32:10 8159 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:32:10 8209 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:32:11 9121 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:32:11 9217 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 00:39:39 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 00:39:47 7694 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 00:39:47 8010 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 00:39:47 8333 INFO  [main] - Verify 'Beds' text
+2020-08-02 00:39:48 9421 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 00:39:48 9483 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 16:56:40 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 16:56:48 7931 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 16:56:48 8114 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 16:56:49 8339 INFO  [main] - Verify 'Beds' text
+2020-08-02 16:56:50 9263 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 16:56:50 9342 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:06:51 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:06:59 7254 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:06:59 7520 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:06:59 7736 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:07:00 8785 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:07:00 8898 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:07:55 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:08:03 7787 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:08:03 7920 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:08:03 8285 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:08:04 9171 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:08:04 9234 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:09:48 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:09:56 7744 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:09:56 8044 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:09:56 8268 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:09:57 9138 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:09:57 9200 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:10:48 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:10:55 7641 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:10:55 7776 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:10:56 7983 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:10:56 8895 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:10:57 9006 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:19:24 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:19:31 7611 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:19:32 7897 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:19:32 8018 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:19:33 9147 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:19:33 9219 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:20:47 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:20:55 7849 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:20:56 8091 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:20:56 8241 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:20:57 9142 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:20:57 9206 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:23:59 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:24:06 7242 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:24:06 7385 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:24:07 8265 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:25:27 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:25:35 7272 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:25:35 7413 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:25:35 7644 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:25:36 8647 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:25:36 8873 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:45:06 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:45:13 7822 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:45:14 8107 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:45:14 8322 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:45:15 9275 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:45:15 9346 INFO  [main] - Verify 'Mattresses' text
+2020-08-02 17:51:23 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-02 17:51:30 7599 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-02 17:51:30 7734 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-02 17:51:31 7941 INFO  [main] - Verify 'Beds' text
+2020-08-02 17:51:32 8910 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-02 17:51:32 8991 INFO  [main] - Verify 'Mattresses' text
+2020-08-03 19:22:22 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-03 19:22:50 28079 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-03 19:22:51 29697 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-03 19:22:52 30873 INFO  [main] - Verify 'Beds' text
+2020-08-03 19:23:01 39393 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-03 19:23:02 40850 INFO  [main] - Verify 'Mattresses' text
+2020-08-03 20:29:35 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-03 20:29:43 7735 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-03 20:29:43 7874 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-03 20:29:43 8126 INFO  [main] - Verify 'Beds' text
+2020-08-03 20:29:45 9246 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-03 20:29:45 9364 INFO  [main] - Verify 'Mattresses' text
+2020-08-03 20:32:56 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-03 20:33:04 7797 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-03 20:33:04 8057 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-03 20:33:04 8266 INFO  [main] - Verify 'Beds' text
+2020-08-03 20:33:05 9148 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-03 20:33:05 9218 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 17:53:19 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 17:53:25 6534 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 17:53:25 6694 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 17:53:26 6932 INFO  [main] - Verify 'Beds' text
+2020-08-04 17:53:26 7791 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 17:53:26 7863 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 17:54:06 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 17:54:14 7394 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 17:54:14 7558 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 17:54:14 7791 INFO  [main] - Verify 'Beds' text
+2020-08-04 17:54:15 8807 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 17:54:15 8888 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 17:55:39 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 17:55:47 8019 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 17:55:47 8169 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 17:55:47 8362 INFO  [main] - Verify 'Beds' text
+2020-08-04 17:55:48 9304 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 17:55:48 9365 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:03:11 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:03:19 7999 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:03:19 8132 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:03:19 8981 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:05:40 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:05:48 8080 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:05:48 8208 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:05:49 8456 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:05:50 9385 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:05:50 9447 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:07:09 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:07:17 8263 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:07:17 8415 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:07:17 8794 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:07:18 9716 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:07:18 9804 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:13:05 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:13:13 7507 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:13:13 7653 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:13:13 7870 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:13:14 9065 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:13:14 9142 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:15:28 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:15:35 7707 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:15:35 7858 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:15:36 8112 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:15:37 9133 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:15:37 9211 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:26:10 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:26:18 7796 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:26:18 7947 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:26:19 8180 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:26:20 9211 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:26:20 9268 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:28:49 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:28:56 7808 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:28:57 8244 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:28:57 8390 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:28:58 9305 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:28:58 9370 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:48:51 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:48:58 6924 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:48:58 7065 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:48:58 7486 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:48:59 8301 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:48:59 8362 INFO  [main] - Verify 'Mattresses' text
+2020-08-04 18:50:49 0 INFO  [main] - Open browser ,Entering appliction url and maximizing browser
+2020-08-04 18:50:56 7648 INFO  [main] - Verify 'Bedroom' Menu is visible or not
+2020-08-04 18:50:56 7800 INFO  [main] - Verify 'Beds' subMenu visible or not
+2020-08-04 18:50:57 8034 INFO  [main] - Verify 'Beds' text
+2020-08-04 18:50:58 8967 INFO  [main] - Verify 'Mattresses' subMenu visible or not
+2020-08-04 18:50:58 9030 INFO  [main] - Verify 'Mattresses' text

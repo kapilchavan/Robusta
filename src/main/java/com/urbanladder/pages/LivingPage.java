@@ -34,5 +34,5 @@ public class LivingPage {
 	public String  getSofa_SetSubMenuText() {
 		return hoverOnSofa_Set.getText();
 
-}
+	}
 }
